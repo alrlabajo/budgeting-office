@@ -35,7 +35,7 @@
                                     <path d="M15.0666 17.4732C10.4146 17.4732 6.64331 21.2445 6.64331 25.8966H23.49C23.49 21.2445 19.7187 17.4732 15.0666 17.4732Z" stroke="#434343" stroke-width="2.40667" stroke-linecap="round" stroke-linejoin="round"/>
                                 </svg>
                             </div>
-                            <div class="ml-2 font-['Inter'">{{ Auth::user()->name }}</div>
+                            <div class="ml-2 font-['Inter']">{{ Auth::user()->name }}</div>
 
                             <div class="ms-1">
                                 <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
