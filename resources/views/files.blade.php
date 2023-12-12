@@ -6,7 +6,7 @@
     <div class="left-72 top-[100px] absolute flex-col justify-start items-start gap-y-0 inline-flex">
         <div class="w-32 h-9 justify-start items-center gap-2.5 inline-flex">
             <div class="justify-start items-center gap-2.5 flex">
-                <div class="text-black text-lg font-normal font-inter leading-9 left-[20px] top-[100px] ">Accounting</div>
+                <div class="text-black text-xl font-normal font-inter leading-9 left-[20px] top-[100px] ">Accounting</div>
                 <div class="w-6 h-6 relative"></div>
             </div>
         </div>
@@ -58,9 +58,8 @@
             </div>
         </div>
         <div class="justify-start items-center gap-2.5 flex">
-                <div class="text-black text-lg font-normal font-inter leading-9 left-[20px] top-[100px] ">Folders</div>
-                <div class="w-6 h-6 relative"></div>
-            </div>
+            <div class="text-black text-xl font-normal font-inter leading-9 left-[20px] top-[100px] ">Folders</div>
+        </div>        
     </div>
 </x-app-layout>
 @endsection
