@@ -59,6 +59,60 @@
         </div>
         <div class="justify-start items-center gap-2.5 flex">
             <div class="text-black text-xl font-normal font-inter leading-9 left-[20px] top-[100px] ">Folders</div>
+        </div>
+        <!--Folders-->
+        <div class="text-center">
+            <button class="w-44 h-44 inline-flex flex-col items-center">
+                <svg xmlns="http://www.w3.org/2000/svg" width="101" height="100" viewBox="0 0 101 100" fill="none">
+                    <path d="M51.1682 21.6955L45.8848 16.4122C44.714 15.2413 43.1244 14.583 41.4661 14.583H10.7223C8.42025 14.583 6.55566 16.4476 6.55566 18.7497V81.2497C6.55566 83.5518 8.42025 85.4163 10.7223 85.4163H89.889C92.1911 85.4163 94.0557 83.5518 94.0557 81.2497V27.083C94.0557 24.7809 92.1911 22.9163 89.889 22.9163H54.114C53.0098 22.9163 51.9494 22.4768 51.1682 21.6955Z" fill="url(#paint0_linear_512_23535)"/>
+                    <path d="M45.2765 30.0295L52.0848 23.2212C52.2786 23.0274 52.5432 22.917 52.8202 22.917H89.889C92.1911 22.917 94.0557 24.7816 94.0557 27.0837V81.2503C94.0557 83.5524 92.1911 85.417 89.889 85.417H10.7223C8.42025 85.417 6.55566 83.5524 6.55566 81.2503V32.292C6.55566 31.717 7.02233 31.2503 7.59733 31.2503H42.3307C43.4348 31.2503 44.4952 30.8107 45.2765 30.0295Z" fill="url(#paint1_linear_512_23535)"/>
+                    <defs>
+                        <linearGradient id="paint0_linear_512_23535" x1="50.3057" y1="13.9747" x2="50.3057" y2="31.2018" gradientUnits="userSpaceOnUse">
+                            <stop stop-color="#EBA600"/>
+                            <stop offset="1" stop-color="#C28200"/>
+                        </linearGradient>
+                        <linearGradient id="paint1_linear_512_23535" x1="50.3057" y1="22.6128" x2="50.3057" y2="85.3816" gradientUnits="userSpaceOnUse">
+                            <stop stop-color="#FFD869"/>
+                            <stop offset="1" stop-color="#FEC52B"/>
+                        </linearGradient>
+                    </defs>
+                </svg>
+                <label class="text-gray-500 text-xs font-medium font-['Inter'] leading-none">Budget Call</label>
+            </button>
+            <button class="w-44 h-44 inline-flex flex-col items-center">
+                <svg xmlns="http://www.w3.org/2000/svg" width="101" height="100" viewBox="0 0 101 100" fill="none">
+                    <path d="M51.1682 21.6955L45.8848 16.4122C44.714 15.2413 43.1244 14.583 41.4661 14.583H10.7223C8.42025 14.583 6.55566 16.4476 6.55566 18.7497V81.2497C6.55566 83.5518 8.42025 85.4163 10.7223 85.4163H89.889C92.1911 85.4163 94.0557 83.5518 94.0557 81.2497V27.083C94.0557 24.7809 92.1911 22.9163 89.889 22.9163H54.114C53.0098 22.9163 51.9494 22.4768 51.1682 21.6955Z" fill="url(#paint0_linear_512_23535)"/>
+                    <path d="M45.2765 30.0295L52.0848 23.2212C52.2786 23.0274 52.5432 22.917 52.8202 22.917H89.889C92.1911 22.917 94.0557 24.7816 94.0557 27.0837V81.2503C94.0557 83.5524 92.1911 85.417 89.889 85.417H10.7223C8.42025 85.417 6.55566 83.5524 6.55566 81.2503V32.292C6.55566 31.717 7.02233 31.2503 7.59733 31.2503H42.3307C43.4348 31.2503 44.4952 30.8107 45.2765 30.0295Z" fill="url(#paint1_linear_512_23535)"/>
+                    <defs>
+                        <linearGradient id="paint0_linear_512_23535" x1="50.3057" y1="13.9747" x2="50.3057" y2="31.2018" gradientUnits="userSpaceOnUse">
+                           <stop stop-color="#EBA600"/>
+                            <stop offset="1" stop-color="#C28200"/>
+                        </linearGradient>
+                        <linearGradient id="paint1_linear_512_23535" x1="50.3057" y1="22.6128" x2="50.3057" y2="85.3816" gradientUnits="userSpaceOnUse">
+                            <stop stop-color="#FFD869"/>
+                            <stop offset="1" stop-color="#FEC52B"/>
+                        </linearGradient>
+                    </defs>
+                </svg>
+                <label class="text-gray-500 text-xs font-medium font-['Inter'] leading-none">Budget Call</label>
+            </button>
+            <button class="w-44 h-44 inline-flex flex-col items-center">
+                <svg xmlns="http://www.w3.org/2000/svg" width="101" height="100" viewBox="0 0 101 100" fill="none">
+                    <path d="M51.1682 21.6955L45.8848 16.4122C44.714 15.2413 43.1244 14.583 41.4661 14.583H10.7223C8.42025 14.583 6.55566 16.4476 6.55566 18.7497V81.2497C6.55566 83.5518 8.42025 85.4163 10.7223 85.4163H89.889C92.1911 85.4163 94.0557 83.5518 94.0557 81.2497V27.083C94.0557 24.7809 92.1911 22.9163 89.889 22.9163H54.114C53.0098 22.9163 51.9494 22.4768 51.1682 21.6955Z" fill="url(#paint0_linear_512_23535)"/>
+                    <path d="M45.2765 30.0295L52.0848 23.2212C52.2786 23.0274 52.5432 22.917 52.8202 22.917H89.889C92.1911 22.917 94.0557 24.7816 94.0557 27.0837V81.2503C94.0557 83.5524 92.1911 85.417 89.889 85.417H10.7223C8.42025 85.417 6.55566 83.5524 6.55566 81.2503V32.292C6.55566 31.717 7.02233 31.2503 7.59733 31.2503H42.3307C43.4348 31.2503 44.4952 30.8107 45.2765 30.0295Z" fill="url(#paint1_linear_512_23535)"/>
+                    <defs>
+                        <linearGradient id="paint0_linear_512_23535" x1="50.3057" y1="13.9747" x2="50.3057" y2="31.2018" gradientUnits="userSpaceOnUse">
+                             <stop stop-color="#EBA600"/>
+                            <stop offset="1" stop-color="#C28200"/>
+                        </linearGradient>
+                        <linearGradient id="paint1_linear_512_23535" x1="50.3057" y1="22.6128" x2="50.3057" y2="85.3816" gradientUnits="userSpaceOnUse">
+                            <stop stop-color="#FFD869"/>
+                            <stop offset="1" stop-color="#FEC52B"/>
+                        </linearGradient>
+                    </defs>
+                </svg>
+                <label class="text-gray-500 text-xs font-medium font-['Inter'] leading-none">Budget Call</label>
+            </button>
         </div>        
     </div>
 </x-app-layout>
