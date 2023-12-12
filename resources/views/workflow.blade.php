@@ -81,7 +81,7 @@
                 </div>
             </div>
             <!--Timeline-->
-            <div class="hidden p-4 rounded-lg bg-gray-50 dark:bg-gray-800 ml-72 w-[1214px]" id="dashboard" role="tabpanel" aria-labelledby="dashboard-tab">
+            <div class="hidden p-4 rounded-lg ml-72 w-[1214px]" id="dashboard" role="tabpanel" aria-labelledby="dashboard-tab">
                 <div class="relative overflow-x-auto shadow-md sm:rounded-lg">
                     <table class="w-full text-sm text-left rtl:text-right text-gray-500 dark:text-gray-400">
                         <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
@@ -203,12 +203,11 @@
                 </div> 
             </div>
             <!--Track-->
-            <div class="hidden p-4 rounded-lg bg-gray-50 dark:bg-gray-800 ml-72 w-[1214px]" id="settings" role="tabpanel" aria-labelledby="settings-tab">
+            <div class="hidden p-4 rounded-lg bg-gray-50 dark:bg-gray-800 ml-72 " id="settings" role="tabpanel" aria-labelledby="settings-tab">
                 <p class="text-sm text-gray-500 dark:text-gray-400">This is the <strong class="font-medium text-gray-800 dark:text-white"> Track </strong>tab.</p>
             </div>
             <!--Completed-->
             <div class="hidden p-4 rounded-lg ml-72 w-[1214px]" id="contacts" role="tabpanel" aria-labelledby="contacts-tab">
-                
                 <button id="dropdownDefaultButton" data-dropdown-toggle="dropdown" class="text-black bg-white hover:bg-black hover:text-white border border-black font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center" type="button">Workflow <svg class="w-2.5 h-2.5 ms-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4"/>
                 </svg>

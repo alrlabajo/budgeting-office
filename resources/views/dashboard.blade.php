@@ -5,8 +5,7 @@
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
     <!--May change based on data-->
     <div class="grid grid-cols-1 gap-x-25 p-10 mt-14 lg:grid-cols-2 xl:grid-cols-4">
-    <label class="text-black text-2xl font-medium font-inter leading-9 ml-72 mt-3">Dashboard
-    </label>
+    <label class="text-black text-2xl font-medium font-inter leading-9 ml-72">Dashboard</label>
         <div class="w-[382px] h-20 left-0 top-32 absolute">
             <div class="w-[382px] h-20 left-80 top-8 mb-32 absolute bg-white rounded-2xl shadow">
                 <div class="w-32 h-11 left-[21.50px] top-[17.50px] absolute">
